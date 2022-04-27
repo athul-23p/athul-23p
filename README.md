@@ -2,6 +2,10 @@
 
 <img src="https://github.com/athul-23p/athul-23p/blob/main/header.png"/>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)  
+
+
+
 <!--
 **athul-23p/athul-23p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
