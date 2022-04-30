@@ -2,7 +2,7 @@
 
 <img src="https://github.com/athul-23p/athul-23p/blob/main/header.png"/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)  
+
 
 
 
@@ -11,16 +11,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+-->
+### About me
+- 🌱 I’m currently learning ... __MERN Stack__
+- 💬 Ask me about ... HTML,CSS,JS
+- 📫 How to reach me: ...[athul238p@gmail.com](mailto:athul238p@gmail.com)
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)  
 ### Skills
 
 <p align="left">
