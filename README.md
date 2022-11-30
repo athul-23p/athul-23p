@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 
 
 -->
+![](https://komarev.com/ghpvc/?username=athul-23p)
 ### About me
 - 🌱 I’m currently learning ... __MERN Stack__
 - 💬 Ask me about ... HTML,CSS,JS
